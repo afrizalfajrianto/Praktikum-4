@@ -5,7 +5,7 @@ list dengan rincian sebagai berikut:
 
 # Untuk Flowchart Program
 
-![Flowchart](screenshot/flowchartlisttuple.png)
+![Flowchart](screenshot/FlowchartListTuple.png)
 
 - Progam meminta memasukkan data sebanyak-banyaknya (gunakan
   perulangan)
